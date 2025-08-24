@@ -43,8 +43,8 @@ pip install -r requirements.txt
 ## 📊 Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/your-repo.git
-   cd your-repo
+   git clone https://github.com/u25724267-svg/Weed-Classification
+   cd Weed-Classification
    ```
 2. Add your dataset (`.zip`) to the `data/` folder.  
 3. Open the notebook:
