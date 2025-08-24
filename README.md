@@ -20,8 +20,6 @@ The project is structured to support reproducibility, modular experimentation, a
 ```
 ├── main.ipynb        # Core notebook: training + evaluation pipeline
 ├── data/             # Place your dataset or ZIP file here
-├── models/           # Saved model checkpoints
-├── results/          # Training history and evaluation outputs
 └── README.md         # Project documentation
 ```
 
